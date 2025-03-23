@@ -1,7 +1,5 @@
 
-# Jonatan Trindade 
-<img align="right" alt="doug-ia" src="https://github.com/user-attachments/assets/c2b812a2-dbe2-4a54-8b09-600a5da2c5b6" width=150px height=150px>
-
+# Jonatan Trindade
 
 Olá! Meu nome é Jonatan, tenho 23 anos, estou cursando Engenharia da Computação e estou no último semestre da faculdade, e sou estagiário em uma repartição pública, e estou mesclando para a área de Data Science. 
 
@@ -59,3 +57,4 @@ Olá! Meu nome é Jonatan, tenho 23 anos, estou cursando Engenharia da Computaç
 ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/Openshift-000?style=for-the-badge&logo=redhat&logoColor=red)
+<img align="right" alt="doug-ia" src="https://github.com/user-attachments/assets/c2b812a2-dbe2-4a54-8b09-600a5da2c5b6" width=150px height=150px>
