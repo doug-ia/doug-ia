@@ -1,5 +1,8 @@
 
-# Jonatan Trindade
+# Jonatan Trindade 
+<img align="right" alt="doug-ia" src="https://github.com/user-attachments/assets/c2b812a2-dbe2-4a54-8b09-600a5da2c5b6" width=150px height=150px>
+
+
 Olá! Meu nome é Jonatan, tenho 23 anos, estou cursando Engenharia da Computação e estou no último semestre da faculdade, e sou estagiário em uma repartição pública, e estou mesclando para a área de Data Science. 
 
 ![doug-ia GitHub stats](https://github-readme-stats.vercel.app/api?username=doug-ia&show_icons=true&theme=radical)
